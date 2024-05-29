@@ -1,3 +1,4 @@
 streamlit
 google-cloud-documentai
 pandas
+python-Levenshtein
